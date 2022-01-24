@@ -72,3 +72,4 @@ password -> admin
 Aqui voce pode adicionar usuarios, adicionar permissoes e diferentes acessos para diferentes usuarios e todos os dados que forem adicionados na plataforma, também sera adicionado na API.~~
 
 
+Nota de esclarecimento: arquivos como o config.py e consumo.py foram tentativas de criar um consumidor de api de uma maneira mais personalizada que acabou não dando 100% certo, porém achei interessante deixar no projeto para minha maneira de codificar ser avaliada.
