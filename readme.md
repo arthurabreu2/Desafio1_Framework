@@ -1,5 +1,6 @@
 
-~~![screenshot](/Users/Arthur/PycharmProjects/FrameworkAPI/images/4.png)
+<img src="/Users/Arthur/PycharmProjects/FrameworkAPI/images/4.png" alt="My cool logo"/>
+
 
 ## DESAFIO TÉCNICO FRAMEWORK
 
